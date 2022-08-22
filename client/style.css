@@ -1,0 +1,14 @@
+html,
+body {
+	height: 100%;
+	font-family: 'Inconsolata', sans-serif;
+}
+
+.leftside,
+.rightside {
+	padding: 45px;
+}
+
+.eventcard {
+	padding: 8px;
+}
